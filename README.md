@@ -7,3 +7,4 @@ Change.
 And another change...
 Thanks github for in-file edit!
 foo.
+test,
